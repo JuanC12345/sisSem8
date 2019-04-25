@@ -44,7 +44,10 @@ public class Ejer5Pag141 {
                 System.out.println("será bueno");
             
              else if(notas[i]>=9&&notas[i]<=10)
-                System.out.println("será excelente mas que excelente");
+                System.out.println("será excelente");
+           
+            
+            
         }
         
     }
